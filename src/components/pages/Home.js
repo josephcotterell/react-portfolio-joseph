@@ -4,7 +4,10 @@ export default function Home() {
     <div>
       <section id="hero">
         <div className="hero container">
-          <div>Joseph Cotterell</div>
+          <div>
+            {" "}
+            <h1>Joseph Cotterell</h1>
+          </div>
         </div>
       </section>
       <section id="about">
